@@ -1,0 +1,6 @@
+---
+package-as: WhooList
+enable-nolib-creation: no
+ignore:
+  - README.md
+  - justfile

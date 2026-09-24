@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: WhooList
+## Notes: Puts the hoot back in your Who List.
+## Version: @project-version@
+## LoadOnDemand: 1
+## LoadWith: Blizzard_GroupFinder_VanillaStyle
+
+## X-Category: UI Overhaul
+## X-License: Public Domain
+## X-Website: https://github.com/Meorawr/WhooList
+## X-Curse-Project-ID: 1710538
+## X-Wago-ID: QN5Jmp6B
+
+WhooList.lua
